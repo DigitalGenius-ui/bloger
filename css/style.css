@@ -587,12 +587,13 @@ body{
         left: 50%;
         transform: translate(-50%, -50%);
     }
-}
 
-@media(max-width:375px){
     .bloger .header-title h1{
         font-size: 2rem;
     }
+}
+
+@media(max-width:375px){
 
     .bloger .navigation,
     .navigation nav,
